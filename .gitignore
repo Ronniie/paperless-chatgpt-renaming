@@ -1,0 +1,6 @@
+.env
+content/
+cleaned-content/
+.venv/
+error.log
+.idea/
