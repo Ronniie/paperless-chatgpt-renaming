@@ -1,4 +1,5 @@
 # Paperless-ngx ChatGPT Python Script
+This is now located on https://git.ronniie.com/Ronniie/paperless-ai-renaming - Will be supported there.
 
 This Python script is designed to help you manage and organize your documents using the [Paperless-ngx](https://github.com/the-paperless-project/paperless-ngx) document management system, with the assistance of the OpenAI ChatGPT model. It can be used to automatically rename documents based on their content and to create cleaned copies of documents in a specific directory. This was a helpful script but I no longer use it; I wanted to add local AI support via Ollama. Maybe one day! I made it easy for anyone to update it.
 
